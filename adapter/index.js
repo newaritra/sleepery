@@ -1,1 +1,0 @@
-exports.runQuery = require("./mySql");
